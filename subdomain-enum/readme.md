@@ -58,11 +58,7 @@ Install Subfinder:
 go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 ```
 
-Install httpx:
 
-```bash
-go install github.com/projectdiscovery/httpx/cmd/httpx@latest
-```
 
 Add Go binaries to PATH:
 
@@ -219,3 +215,7 @@ This project is intended for authorized security testing and passive reconnaissa
 **Language:** Bash, Python3  
 **Environment:** Kali Linux  
 **Output:** Consolidated Unique Subdomain List
+
+
+
+<img width="747" height="862" alt="image" src="https://github.com/user-attachments/assets/0e77163c-453f-4f55-bf92-f1e5de9c38b3" />
