@@ -49,7 +49,7 @@ sudo apt update
 Install required dependencies:
 
 ```bash
-sudo apt install -y curl wget jq dnsutils whois git python3 python3-pip golang-go amass findomain assetfinder
+sudo apt install -y curl wget jq   git python3 python3-pip golang-go  findomain assetfinder 
 ```
 
 Install Subfinder:
